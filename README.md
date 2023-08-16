@@ -1,2 +1,3 @@
 # react-vite
-Frontend Masters React Vite V8
+
+Frontend Masters React Vite V8 course
