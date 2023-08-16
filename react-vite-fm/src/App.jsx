@@ -1,7 +1,8 @@
 import "./App.css";
+import SearchParams from "./SearchParams";
 
 function App() {
-  return <h1>hola</h1>;
+  return <SearchParams />;
 }
 
 export default App;
